@@ -1,12 +1,7 @@
-Hi, I am Januki Wanniarachchi - 👋 Hi, I’m @JWanniarachchi
-- 👀 I'm reading BSc Hons. Atrificial Intelligence and Data Science.
-- 🌱 An Undergraduate of IIT affilicate with RGU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I am Januki Wanniarachchi. 👋
+A passionate and ambitious student with a knack for quick learning and adapting.
+An Undergraduate of IIT affilicate with RGU. 👩‍🎓
+I'm reading the degree of BSc Hons. Atrificial Intelligence and Data Science. 🎓
+I am looking for collaborate for an Interenship. 🧐
+Interesting in new trends and fashions. 💓
 
-<!---
-JWanniarachchi/JWanniarachchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
